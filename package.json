@@ -17,7 +17,7 @@
 		"lint:fix": "./node_modules/.bin/eslint ./src --ext .js,.jsx --fix",
 		"test": "echo \"Error: oops, the actor has no tests yet, sad!\" && exit 1",
 		"pageres": "node pageres.js",
-		"ampify": "apify run -p",
+		"apify": "apify run -p",
 		"puppeteer": "node puppeteer.js"
 	},
 	"author": "It's not you it's me",

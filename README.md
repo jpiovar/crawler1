@@ -4,7 +4,7 @@ Before you start writing your first actor, please read [Apify Marketplace develo
 
 
 # Crawler for pages
-1. Ampify puppeteer: npm run ampify
+1. Apify puppeteer: npm run apify
 https://sdk.apify.com/docs/guides/getting-started
 
 2. Pageres: npm run pageres
